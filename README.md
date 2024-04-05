@@ -16,8 +16,12 @@ Realizei mais um estudo, porem, dessa vez acerca das animações utilizando @key
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src="" width="100%">
+
+https://github.com/CaioFurtadoo/Animations/assets/164534948/bd2df750-2b7c-4d7b-96db-de99d83207e8
+
+
 </p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
